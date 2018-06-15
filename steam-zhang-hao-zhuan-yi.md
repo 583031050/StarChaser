@@ -1,12 +1,8 @@
----
-description: 从官网将人物转移到STEAM帐号下 By. SC-暴风
----
-
 # ------STEAM帐号转移-----
 
 首先请用创建帐号的链接中的教程创建一个STEAM帐号
 
-{% page-ref page="chuang-hao.md" %}
+{% page-ref page="chuang-jian-zhang-hao.md" %}
 
 然后登录官网：[`http://secure.eveonline.com/AccountManMenu.aspx`](http://secure.eveonline.com/AccountManMenu.aspx)
 

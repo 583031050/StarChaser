@@ -40,5 +40,15 @@
 * 指挥中心升级理论（Command Center Upgrades）：允许布置更高级的指挥中心（越高级的指挥中心可以使用更大额度的电量和CPU，这直接影响了可以放置的设施数量，前期推荐学到四级）
 * 行星统筹管理学（Interplanetary Consolidation）：允许在更多的星球上布置指挥中心（顾名思义，等级越高球越多，前期推荐学到四级）
 
+## 种菜流程：
 
+![](.gitbook/assets/zhong-cai-1.jpg)
+
+![](.gitbook/assets/zhong-cai-2.jpg)
+
+![](.gitbook/assets/zhong-cai-3.jpg)
+
+![](.gitbook/assets/zhong-cai-4.jpg)
+
+![](.gitbook/assets/zhong-cai-5.jpg)
 
